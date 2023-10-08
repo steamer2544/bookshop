@@ -1,0 +1,11 @@
+body {
+    font-family: 'Prompt', sans-serif;
+}
+
+.book-cover {
+    height: 300px;
+    object-fit: cover; 
+}
+.jumbotron {
+    padding: 0px; /* Adjust as needed */
+}

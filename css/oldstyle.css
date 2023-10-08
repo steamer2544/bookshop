@@ -1,0 +1,44 @@
+body {
+    background-image: url('../img/sky.jpg');
+    background-size: cover; /* Ensures the image covers the entire viewport */
+    background-repeat: no-repeat; /* Prevents image repetition */
+    text-align: center;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+.jumbotron {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+.card {
+    width: 100%;
+    text-align: left;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+
+h1{
+    font-size: 50px;
+    color:rgb(80, 33, 235)
+}
+
+h3{
+    color:rgb(89, 43, 240)
+}
+
+.bookwink {
+    width: 10%;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+.navbar-center {
+    display: flex;
+    justify-content: center;
+}
